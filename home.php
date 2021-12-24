@@ -1,3 +1,4 @@
+$ heroku buildpacks:set heroku/php
 
 <html lang="en"><head>
     <meta charset="utf-8">
